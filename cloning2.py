@@ -1,4 +1,4 @@
 os.system('rm -rf Hackermanking
-git clone 
+git clone https://github.com/Hackermanking/Clonig-malagasy
 cd Hackermanking
 python Hackermanking.py')
